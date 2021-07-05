@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/letsWatch/static/css/main.6750f15b.chunk.css",
+    "main.js": "/letsWatch/static/js/main.f421fc32.chunk.js",
+    "main.js.map": "/letsWatch/static/js/main.f421fc32.chunk.js.map",
+    "runtime-main.js": "/letsWatch/static/js/runtime-main.aaa2a142.js",
+    "runtime-main.js.map": "/letsWatch/static/js/runtime-main.aaa2a142.js.map",
+    "static/js/2.e7d32359.chunk.js": "/letsWatch/static/js/2.e7d32359.chunk.js",
+    "static/js/2.e7d32359.chunk.js.map": "/letsWatch/static/js/2.e7d32359.chunk.js.map",
+    "index.html": "/letsWatch/index.html",
+    "static/css/main.6750f15b.chunk.css.map": "/letsWatch/static/css/main.6750f15b.chunk.css.map",
+    "static/js/2.e7d32359.chunk.js.LICENSE.txt": "/letsWatch/static/js/2.e7d32359.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaa2a142.js",
+    "static/js/2.e7d32359.chunk.js",
+    "static/css/main.6750f15b.chunk.css",
+    "static/js/main.f421fc32.chunk.js"
+  ]
+}
